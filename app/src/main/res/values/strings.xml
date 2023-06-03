@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WorkoutPlan</string>
+    <string name="top_bar">30 days fitness challenge</string>
+    <string name="day_1">Day 1</string>
+    <string name="title_1">Arms + ABS</string>
+    <string name="info_1">Bend one arm to bring the elbow and forearm to the floor. Bring the other
+        arm down so you are in a forearm plank. Push back up to the start position, placing each
+        hand where your elbows were. Repeat this movement, alternating which side you lower first with each rep.
+    </string>
+
+</resources>
